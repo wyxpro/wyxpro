@@ -28,7 +28,7 @@ Source repository: <https://github.com/wyxpro>
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hi%20Friend&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaoye&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi Friend" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hello%20World&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaoye&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hello World" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -42,6 +42,6 @@ Source repository: <https://github.com/wyxpro>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/wyxpro"><img src="https://img.shields.io/badge/GitHub-Xiaoye-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/xiaoye66"><img src="https://img.shields.io/badge/Gitee-Xiaoye-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/346710742?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://gitee.com/xiaoye66"><img src="https://img.shields.io/badge/Gitee-Xiaoye-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>   
     <a href="https://github.com/wyxpro"><img src="https://komarev.com/ghpvc/?username=Xiaoye&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+     <a href="https://space.bilibili.com/346710742?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
