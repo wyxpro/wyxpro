@@ -28,7 +28,7 @@ Source repository: <https://github.com/wyxpro>
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hi%20There&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaoye&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hi%20Friend&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaoye&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi Friend" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -37,7 +37,7 @@ Source repository: <https://github.com/wyxpro>
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,c,cpp,java,cs,go,rust,md,latex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
